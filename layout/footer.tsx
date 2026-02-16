@@ -3,7 +3,7 @@ import React from 'react';
 const FooterUI: React.FC = () => {
 
     return (
-        <footer className = "w-full flex justify-center py-4">
+        <footer className = "w-full flex justify-center py-4 border-t">
             <p className = "text-xs">Contact Us  Privacy Notice  &copy; 2026. All rights reserved</p>
         </footer>
 
